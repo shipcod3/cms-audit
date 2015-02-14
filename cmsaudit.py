@@ -5,7 +5,7 @@ import argparse
 from threading import Semaphore, Thread
 
 #Add here other known extension for the backup files
-completion = ["","~",".save",".swp",".swo","#","-bak"]
+completion = ["","~",".save",".swp",".swo","#","-bak", "orig"]
 
 #Add here other configuration files
 cmsConfig = [
