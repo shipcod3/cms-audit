@@ -14,6 +14,7 @@ cmsConfig = [
 	"configuration.php",
 	"LocalSettings.php",
 	"mt-config.cgi",
+	"setup.php",
 	"settings.php"
 	]
 
